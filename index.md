@@ -35,9 +35,7 @@ ICEBRKR does not sell or rent your personal data.
 Data Deletion
 
 Users may request account and data deletion by contacting:
-support@icebrkr.app
-
-(replace with your real email)
+ajelchik@gmail.com
 
 Security
 
